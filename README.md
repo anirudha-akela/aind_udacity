@@ -2,8 +2,6 @@
 
 ##### [Anirudha Akela](https://github.com/anirudha-akela)
 
-## Term 1: Computer Vision, Deep Learning, and Sensor Fusion
-
 type | name | description | tags
 --:|:----|---|---
 [project] | Building a Sudoku Solver | In this project, you will extend the Sudoku-solving agent developed in the classroom lectures to solve diagonal Sudoku puzzles. |
