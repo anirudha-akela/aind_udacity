@@ -1,1 +1,1 @@
-All my assignments and projects from the INtroduction to Artificial Intelligence nanodegree programme at Udacity.
+All my assignments and projects from the Introduction to Artificial Intelligence nanodegree programme at Udacity.
